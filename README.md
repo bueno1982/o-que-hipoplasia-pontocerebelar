@@ -1,2 +1,0 @@
-# o-que-hipoplasia-pontocerebelar
-
