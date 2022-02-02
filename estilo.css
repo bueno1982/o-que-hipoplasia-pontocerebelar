@@ -1,0 +1,21 @@
+body
+
+{
+	background-image:url(imagemisis.jpeg);
+    background-size: 100px
+     background-repeat:no-repeat;}
+	
+
+     
+  .cabeçalho-menu-item {
+
+  	
+  	font-size: 35px;
+  	background-color: #ECD6C6;
+  	width: 180PX;
+  	height: 67px;
+  	border: none;
+  	border-radius: 50px;
+   
+   }
+	
